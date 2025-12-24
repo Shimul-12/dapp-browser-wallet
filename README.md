@@ -25,20 +25,21 @@ A decentralized application (DApp) browser integrated within a cryptocurrency wa
 - npm or yarn
 - Git
 
-Installation
+Installation:-
 
-1. Clone the repository
+:-Clone the repository-
+
 git clone https://github.com/yourusername/dapp-browser-wallet.git
 
 cd dapp-browser-wallet
 
-3. Install dependencies
+:-Install dependencies-
 npm install
 
-5. Start the development server
+:-Start the development server-
 npm start
 
-7. Open [http://localhost:3000](http://localhost:3000) in your browser
+:-Open [http://localhost:3000](http://localhost:3000) in your browser
 
 🏗️ Project Structure
 src/
@@ -51,6 +52,7 @@ src/
 │ └── networks.js # Network configurations
 └── utils/
 └── WalletKeyManager.js # Key management utilities
+
 
 
 
