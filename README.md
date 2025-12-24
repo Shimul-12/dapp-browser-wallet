@@ -29,12 +29,16 @@ Installation
 
 1. Clone the repository
 git clone https://github.com/yourusername/dapp-browser-wallet.git
+
 cd dapp-browser-wallet
-2. Install dependencies
+
+3. Install dependencies
 npm install
-3. Start the development server
+
+5. Start the development server
 npm start
-4. Open [http://localhost:3000](http://localhost:3000) in your browser
+
+7. Open [http://localhost:3000](http://localhost:3000) in your browser
 
 🏗️ Project Structure
 src/
@@ -47,3 +51,4 @@ src/
 │ └── networks.js # Network configurations
 └── utils/
 └── WalletKeyManager.js # Key management utilities
+
